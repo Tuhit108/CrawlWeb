@@ -57,14 +57,14 @@ def processingData(link: str):
         result.append({
             "Tên" : carTitle[0],
             "Giá" :convertPrice(carTitle[1]),
-            "Năm sản xuất" : carInfos[0].text,
-            "Kiểu dáng" :  carInfos[1].text,
-            "Tình trạng" : carInfos[2].text,
-            "Xuất xứ": carInfos[3].text,
-            "Số km đã đi": carInfos[4].text,
-            "Tỉnh thành": carInfos[5].text,
-            "Hộp số": carInfos[6].text,
-            "Nhiên liệu": carInfos[7].text,
+            "Năm sản xuất" : carInfos[0].text.replace("Năm sản xuất",''),
+            "Kiểu dáng" :  carInfos[1].text.replace("Kiểu dáng",''),
+            "Tình trạng" : carInfos[2].text.replace("Tình trạng",''),
+            "Xuất xứ": carInfos[3].text.replace("Xuất xứ",''),
+            "Số km đã đi": carInfos[4].text.replace("Số km đã đi",''),
+            "Tỉnh thành": carInfos[5].text.replace("Tỉnh thành",''),
+            "Hộp số": carInfos[6].text.replace("Hộp số",''),
+            "Nhiên liệu": carInfos[7].text.replace("Nhiên liệu",''),
 
         })
         carName.append(TenXe)
@@ -88,7 +88,7 @@ def processingData(link: str):
         pass
 
 
-for i in range(0, 2):
+for i in range(0, 1):
     try:
         response = requests.get('https://oto.com.vn/mua-ban-xe-cu-da-qua-su-dung/p' + str(i))
         soup = BeautifulSoup(response.content, "html.parser")
@@ -105,8 +105,6 @@ for i in range(0, 2):
 for link in listCarLinks:
     print(link)
     processingData(link)
-print( result)
+print(result)
 df = pd.DataFrame(dict)
 df.to_csv('data-1.csv', encoding='utf-8-sig')
-da = pd.read_csv('data-1.csv')
-print(da)

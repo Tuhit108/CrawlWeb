@@ -3,27 +3,13 @@
 1, Toyota Land Cruiser 5.7 V8 2018,7900000000,2018,SUV,Đãquasửdụng,Nhậpkhẩu,34.000km,HàNội,Sốtựđộng,Xăng
 2, Land Rover Range Rover SVautobiogaphy LWB 3.0L 2021,13800000000,2021,SUV,Đãquasửdụng,Nhậpkhẩu,10.000km,Tp.HCM,Sốtựđộng,Xăng
 3, Lexus RX 300 T 2022,3580000000,2022,SUV,Đãquasửdụng,Nhậpkhẩu,5.000km,Tp.HCM,Sốtựđộng,Xăng
-4, Hyundai Accent 1.4AT Đặc biệt 2019,465000000,2019,Sedan,Đãquasửdụng,Trongnước,42.000km,VĩnhPhúc,Sốtựđộng,Xăng
-5, Ford Ranger XLS 2.2 4x2 AT 2019,640000000,2019,Pick-upTruck,Đãquasửdụng,Nhậpkhẩu,30.000km,Tp.HCM,Sốtựđộng,Diesel
-6, Honda Civic 1.5 RS 2020,768000000,2020,Sedan,Đãquasửdụng,Nhậpkhẩu,20.000km,Tp.HCM,Sốtựđộng,Xăng
-7, Ford Explorer Limited 2022,2878000000,2022,SUV,Đãquasửdụng,Trongnước,5.000km,HàNội,Sốtựđộng,
-8, Suzuki XL7 GLX 2020,558000000,2020,SUV,Đãquasửdụng,Nhậpkhẩu,25.000km,HàNội,Sốtựđộng,Xăng
-9, Mitsubishi Pajero Sport 3.0 Gasoline 4×2 AT 2017,785000000,2017,SUV,Đãquasửdụng,Nhậpkhẩu,80.000km,LâmĐồng,Sốtựđộng,Xăng
-10, Ford Ranger Raptor 2.0L AT 4x4 2021,1320000000,2021,Pick-upTruck,Đãquasửdụng,Nhậpkhẩu,11.000km,HàNội,Sốtựđộng,Diesel
-11, Mercedes-Benz C300 AMG 2016,1055000000,2016,Sedan,Đãquasửdụng,Nhậpkhẩu,60.000km,Tp.HCM,Sốtựđộng,Xăng
-12, Toyota Venza 2.7 AWD AT 2009,568000000,2009,CUV,Đãquasửdụng,Nhậpkhẩu,60.000km,Tp.HCM,Sốtựđộng,Xăng
-13, Peugeot 3008 Allure 2018,825000000,2018,SUV,Đãquasửdụng,Nhậpkhẩu,40.000km,VĩnhPhúc,Sốtựđộng,Xăng
-14, Lincoln Navigator Black Label L 2020,8500000000,2020,SUV,Đãquasửdụng,Nhậpkhẩu,20.000km,HàNội,Sốtựđộng,Xăng
-15, Toyota Land Cruiser 5.7 V8 2018,7900000000,2018,SUV,Đãquasửdụng,Nhậpkhẩu,34.000km,HàNội,Sốtựđộng,Xăng
-16, Land Rover Range Rover SVautobiogaphy LWB 3.0L 2021,13800000000,2021,SUV,Đãquasửdụng,Nhậpkhẩu,10.000km,Tp.HCM,Sốtựđộng,Xăng
-17, Lexus RX 300 T 2022,3580000000,2022,SUV,Đãquasửdụng,Nhậpkhẩu,5.000km,Tp.HCM,Sốtựđộng,Xăng
-18, Hyundai Accent 1.4AT Đặc biệt 2019,465000000,2019,Sedan,Đãquasửdụng,Trongnước,42.000km,VĩnhPhúc,Sốtựđộng,Xăng
-19, Ford Ranger XLS 2.2 4x2 AT 2019,640000000,2019,Pick-upTruck,Đãquasửdụng,Nhậpkhẩu,30.000km,Tp.HCM,Sốtựđộng,Diesel
-20, Honda Civic 1.5 RS 2020,768000000,2020,Sedan,Đãquasửdụng,Nhậpkhẩu,20.000km,Tp.HCM,Sốtựđộng,Xăng
-21, Ford Explorer Limited 2022,2878000000,2022,SUV,Đãquasửdụng,Trongnước,5.000km,HàNội,Sốtựđộng,
-22, Suzuki XL7 GLX 2020,558000000,2020,SUV,Đãquasửdụng,Nhậpkhẩu,25.000km,HàNội,Sốtựđộng,Xăng
-23, Mitsubishi Pajero Sport 3.0 Gasoline 4×2 AT 2017,785000000,2017,SUV,Đãquasửdụng,Nhậpkhẩu,80.000km,LâmĐồng,Sốtựđộng,Xăng
-24, Ford Ranger Raptor 2.0L AT 4x4 2021,1320000000,2021,Pick-upTruck,Đãquasửdụng,Nhậpkhẩu,11.000km,HàNội,Sốtựđộng,Diesel
-25, Mercedes-Benz C300 AMG 2016,1055000000,2016,Sedan,Đãquasửdụng,Nhậpkhẩu,60.000km,Tp.HCM,Sốtựđộng,Xăng
-26, Toyota Venza 2.7 AWD AT 2009,568000000,2009,CUV,Đãquasửdụng,Nhậpkhẩu,60.000km,Tp.HCM,Sốtựđộng,Xăng
-27, Peugeot 3008 Allure 2018,825000000,2018,SUV,Đãquasửdụng,Nhậpkhẩu,40.000km,VĩnhPhúc,Sốtựđộng,Xăng
+4, Toyota Fortuner 2.4G 4x2 AT  2020,980000000,2020,,Đãquasửdụng,Trongnước,70.000km,Tp.HCM,Sốtựđộng,Diesel
+5, Ford F 150 Limited 2019,4680000000,2019,Pick-upTruck,Đãquasửdụng,Nhậpkhẩu,10.000km,HàNội,Sốtựđộng,Xăng
+6, Toyota Corolla Cross 1.8 V  2020,870000000,2020,SUV,Đãquasửdụng,Nhậpkhẩu,11.000km,HàNội,Sốtựđộng,Xăng
+7, Volvo XC90 T6 Inscription 2019,3380000000,2019,SUV,Đãquasửdụng,Nhậpkhẩu,46.800km,HàNội,Sốtựđộng,Xăng
+8, Porsche 718 Boxster T 2022,5750000000,2022,Convertible,Đãquasửdụng,Nhậpkhẩu,3.000km,HàNội,Sốtựđộng,Xăng
+9, Toyota Fortuner 2.4 MT 4x2 2017,838000000,2017,SUV,Đãquasửdụng,Nhậpkhẩu,90.000km,HàNội,Sốtay,Diesel
+10, Hyundai Grand i10 Sedan 1.2 MT 2018,289000000,2018,Sedan,Đãquasửdụng,Trongnước,42.000km,HảiPhòng,Sốtay,Xăng
+11, BMW 320i 2014,679000000,2014,Sedan,Đãquasửdụng,Nhậpkhẩu,65.000km,Tp.HCM,Sốtựđộng,Xăng
+12, Mercedes-Benz E180 1.5 I4 2022,1899000000,2022,Sedan,Đãquasửdụng,Trongnước,2.300km,Tp.HCM,Sốtựđộng,Xăng
+13, Rolls-Royce Phantom 2011,19500000000,2011,Sedan,Đãquasửdụng,Nhậpkhẩu,25.000km,HàNội,Sốtựđộng,Xăng
