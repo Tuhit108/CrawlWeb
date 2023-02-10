@@ -52,6 +52,14 @@ print(do)
 ax.pie(do.values, labels = do.index,autopct='%1.2f%%')
 
 plt.show()
+do = df['Nhiên liệu'].value_counts()
+fig = plt.figure()
+ax = fig.add_axes([0,0,1,1])
+ax.axis('equal')
+print(do)
+ax.pie(do.values, labels = do.index,autopct='%1.2f%%')
+
+plt.show()
 
 do = df['Kiểu dáng'].value_counts()
 fig = plt.figure()
